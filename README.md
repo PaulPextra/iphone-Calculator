@@ -1,2 +1,2 @@
 # iphone-Calculator
-Designing an iphone calculator with HTML, CSS and JavaScript
+An iphone calculator App built with HTML, CSS and JavaScript.
